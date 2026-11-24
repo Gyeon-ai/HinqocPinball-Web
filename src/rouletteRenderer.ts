@@ -42,7 +42,7 @@ const MAX_DISPLAY_WIDTH = 1920;
 // 타이머 상자와 당첨 상자 사이를 더 띄우는 거리(CSS px)
 const WINNER_PANEL_DROP = 16;
 /** 당첨 상자 공 둘레 빛(릴파 판: 어두운 당첨 상자에서 남색 박쥐가 보이게) */
-const WINNER_GLOW = 'rgba(125, 219, 189, 0.95)'; // 힌콕 판: 민트 빛(2026-11-24)
+const WINNER_GLOW = 'rgba(156, 240, 210, 0.95)'; // 힌콕 판: 민트 빛(2026-11-24, 2026-11-25 1-1 #9cf0d2)
 
 export class RouletteRenderer {
   protected _canvas!: HTMLCanvasElement;

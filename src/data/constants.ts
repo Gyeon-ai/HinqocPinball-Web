@@ -10,7 +10,7 @@ export const UI_FONT_FAMILY = `'Pretendard Variable', Pretendard, 'Noto Sans KR'
 export const DOT_LINE = '#4a69c0';
 export const DOT_INK = '#0a1024';
 export const DOT_TEXT_SOFT = '#d6e4ff';
-export const DOT_ACCENT = '#7ddbbd';
+export const DOT_ACCENT = '#9cf0d2';
 export const DOT_RED = '#d9475e';
 export const NAME_FONT_FAMILY = `'Noto Sans KR', sans-serif`;
 export const DOT_FONT_FAMILY = `'Galmuri11', 'Noto Sans KR', sans-serif`;
@@ -65,15 +65,15 @@ export const Themes: Record<string, ColorTheme> = {
     coolTimeIndicator: 'red',
     entity: {
       box: {
-        fill: '#7ddbbd',
-        outline: '#7ddbbd',
-        bloom: '#7ddbbd',
+        fill: '#9cf0d2',
+        outline: '#9cf0d2',
+        bloom: '#9cf0d2',
         bloomRadius: 15,
       },
       circle: {
-        fill: '#7ddbbd',
-        outline: '#7ddbbd',
-        bloom: '#7ddbbd',
+        fill: '#9cf0d2',
+        outline: '#9cf0d2',
+        bloom: '#9cf0d2',
         bloomRadius: 15,
       },
       polyline: {

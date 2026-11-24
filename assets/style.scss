@@ -25,7 +25,7 @@
   --dot-line-soft: #b8d0f8;
   --dot-ink: #0a1024;
   --dot-text: #eef4ff;
-  --dot-accent: #7ddbbd;
+  --dot-accent: #9cf0d2; // 2026-11-25 사용자 "1-1로 운영에 반영해줘": 민트 #7ddbbd → #9cf0d2
   --dot-red: #d9475e;
   --dot-red-deep: #5a1a36;
   --dot-blue: #4f8fe8;
@@ -715,7 +715,7 @@ div.toast {
     min-width: 0;
     text-align: center;
     overflow: hidden;
-    color: var(--dot-accent); // 민트 #7ddbbd: 강조색은 바탕이 아니라 글씨에
+    color: var(--dot-accent); // 민트 #9cf0d2: 강조색은 바탕이 아니라 글씨에
     font-family: var(--dot-font);
     font-size: 24px;
     font-weight: 700;
